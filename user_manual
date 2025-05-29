@@ -8,6 +8,6 @@ Attach the pressure/temperature and light sensor to the top of the vechicle and 
 Adjust the cam mechanism so that the inner tube is pushed down so that the instrument will start in a downwards crawl.
 Now the instrument is ready to deploy in the field. 
 Drop the weight in first and then slowly lower the instrument. 
-Once you are done with the deploymen and have retrieved the instrument, you'll want to open the electronics housing. 
+Once you are done with the deployment and have retrieved the instrument, you'll want to open the electronics housing. 
 Unplug the lithium battery when the blue light is turned off so that the data will finish saving.
 Using a USB cord, connect your computer to the microcontroller and download the data.
